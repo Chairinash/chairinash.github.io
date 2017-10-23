@@ -1,0 +1,115 @@
+h1 {
+	color: white;
+	font-family: 'Montserrat';
+}
+a {
+	color: white;
+	font-family: 'Montserrat';
+	font-weight: 300;
+}
+table.header {
+	background-color: #0d1321;
+	width: 100%;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+td {
+	padding: 0px 5px;
+}
+tr {
+	width: 100%;
+}
+h2.teks-judul {
+	color: white;
+	font-family: 'Montserrat', arial;
+	text-align: center;
+	text-shadow: 2px 1px gray;
+}
+h3.teks-judul {
+	color: #4c4c4c;
+	font-family: "Times New Roman";
+	font-style: oblique;
+	text-align: center;
+}
+p.teks-judul {
+	color: white;
+	font-family: "Times New Roman";
+	font-style: oblique;
+	text-align: center;
+	text-shadow: 2px 1px gray;
+}
+#judul {
+	width: 100%;
+}
+div.elemen1 {
+	background-image: url('assets/img/title.jpg');
+	background-size: 100%;
+	width: 100%;
+	height: 600px;
+	display: grid;
+	align-items: center;
+  justify-content: center;
+}
+div.elemen2 {
+	background-color: #f2f2f2;
+	width: 100%;
+	display: grid;
+	align-items: center;
+  justify-content: center;
+	padding-bottom: 70px;
+}
+div.elemen3 {
+	background-color: white;
+	width: 100%;
+	display: grid;
+	align-items: center;
+  justify-content: center;
+	padding-bottom: 70px;
+}
+div.elemen4 {
+	background-color: #f2f2f2;
+	width: 100%;
+	display: grid;
+	align-items: center;
+  justify-content: center;
+	padding-bottom: 70px;
+}
+div.elemen5 {
+	background-color: #263238;
+	width: 100%;
+	display: grid;
+	align-items: center;
+  justify-content: center;
+	padding-bottom: 70px;
+}
+img.tour {
+	max-width: 100%;
+	height: auto;
+}
+h2.teks-konten {
+	color: #4c4c4c;
+	font-family: 'Montserrat', arial;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 70px;
+	padding-bottom: 30px;
+}
+h2.teks-footer {
+	color: white;
+	font-family: 'Montserrat', arial;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 70px;
+	padding-bottom: 30px;
+}
+p.teks-konten {
+	font-family: 'Montserrat';
+	text-align: center;
+	color: #4c4c4c;
+}
+p.teks-footer {
+	font-family: 'Montserrat';
+	text-align: center;
+	color: white;
+	padding: 0px 15px;
+}

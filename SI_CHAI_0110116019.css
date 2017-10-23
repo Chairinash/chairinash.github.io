@@ -1,0 +1,126 @@
+body {
+    background-color: #EEEEEE;
+}
+h1 {
+    color: white;
+    text-align: center;
+    padding: 20px;
+    background-color:#212121;
+    font-size:40px;
+}
+h2 {
+    text-align: center;
+    font-size:25px;
+}
+h3 {
+    color: white;
+    text-align: center;
+    padding:20px;
+    background-color:#212121;
+    font-size:40px;
+}
+h4 {
+    color: white;
+    text-align: center;
+    padding:15px;
+    background-color:#212121;
+    font-size:15px;
+}
+p {
+    font-family: verdana;
+    font-size: 20px;
+    text-align: center;
+}
+#about{
+    font-family: verdana;
+}
+#daftar {
+    margin: 5px;
+    background: #0000;
+    padding: 50px;
+    padding-top: 5px
+}
+#term{
+    font-family: verdana;
+}
+.gallery{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.gallery img {
+    width: 50%;
+    height: 20%;
+}
+.desc{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 15px;
+    text-align: center;
+    font-size: 20px;
+}
+#cabang {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+    align-self: center;
+}
+.listcabang {
+    list-style-type: none;
+    width: 200px;
+
+        display: grid;
+        align-items: center;
+        justify-content: center;
+        align-content: center;
+        align-self: center;
+        text-decoration: underline cyan;
+        line-height: normal;
+        font-size: 25px;
+        font-weight: 300;
+        font-style: normal;
+        position: static;
+        float:none;
+}
+.gallery:hover {
+    border: 1px solid #777;
+}
+ul {
+    padding: 20px;
+}
+ul li {
+
+    margin: 10px;
+    text-align: center;
+    margin-left: auto;
+    align-items: center;
+  }
+table {
+    border-collapse: collapse;
+    width: 100%;
+    align-items: center;
+}
+th, td {
+    text-align: center;
+    padding: 10px;
+      background-color: #f2f2f2
+}
+
+tr:nth-child(even){
+  background-color: #f2f2f2
+}
+th {
+    background-color: #757575;
+    color: white;
+}
+#kontak{
+    font-style: oblique;
+}
+#akhir{
+      background-image: url(assets/img/ini.jpg);
+}
+#footer{
+    text-align: center;
+}
